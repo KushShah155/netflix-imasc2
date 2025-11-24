@@ -6,7 +6,7 @@
 }
 
 #parent{
-    background-image: url('Images/bg-image.jpg');
+    background-image: url('bg-image.jpg');
     height: 110vh;
     background-repeat: no-repeat;
     background-position: top center;
@@ -135,4 +135,5 @@ background-color: rgba(59, 59, 59, 0.387);
 .learnMore a{
     color: #448Ef4;
     font-size: 13px;
+
 }
